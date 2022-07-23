@@ -1,0 +1,17 @@
+.is-favourite{
+	color: #d71c61;
+}
+.quote-text{
+	font-size: 16px !important;
+    color: #000;
+    font-family: system-ui !important;
+}
+.quote-author{
+	font-size: 12px !important;
+}
+.quote-card-content{
+	padding-bottom: 0px;
+}
+.quote-card-list-header{
+	padding: 0;
+}

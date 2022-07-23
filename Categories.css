@@ -1,0 +1,21 @@
+.card-header{
+	padding: 4px;
+}
+.card-content-img{
+	padding: 0;
+	height: 160px;
+	background-color: #000000;
+}
+
+.cat-img{
+	flex: 1 1;
+    height: 160px;
+    object-fit: none;
+    opacity: 0.5;
+}
+.cat-name{
+	font-size: 20px !important;
+    color: #fff;
+    font-family: system-ui !important;
+    margin-top: -40px;
+}
